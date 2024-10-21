@@ -3,5 +3,5 @@
 void main()
 {
 	printf("The main code !! 12345");
-	printf("new one !")
+	printf("new one ! 1234");
 }
